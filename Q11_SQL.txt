@@ -1,0 +1,28 @@
+Question-13 (SQL)
+Name - Meesala Upendra Venkata Akhil
+
+
+create database Exam;
+use Exam
+show databases;
+
+create table employee(id int, name varchar(50), degination varchar(50), salary int);
+insert into employee values(1, "akhil", "Manager", 80000);
+insert into employee values(2, "Venkat", "TeamLead", 50000);
+insert into employee values(3, "Siva", "ProjectLead", 50000);
+insert into employee values(4, "Manu", "Tester", 90000);
+insert into employee values(5, "Lokesh", "Developer", 90000);
+select * from employee;
+
+update employee set name="Ram" where id =3;
+select * from employee;
+
+show tables;
+
+delete from employee where id=2;
+select * from employee;
+
+select * from employee where id>2 && id<5;
+
+
+select * from employee order by salary asc;

@@ -1,0 +1,43 @@
+{
+	"Login":
+	{
+		"Email" : "mainhub@gmail.com",
+		"Password" : "123456"
+	},
+
+	"Valid":
+	{
+		"Couponcode" : "CODEOFYOURS356"
+	},
+	
+	"Numbers":
+	{
+		"Couponcode" : "098764976"
+	},
+	
+	"Specialcharacters":
+	{
+		"Couponcode" : "!@#$%"
+	},
+	
+	"SmallAlpha":
+	{
+		"Couponcode" : "ihtcsdf"
+	},
+	
+	"CaptialAlpha":
+	{
+		"Couponcode" : "AIJDFH"
+	},
+	
+	"Blank":
+	{
+		"Couponcode" : " "
+	},
+	
+	"Specialalpha":
+	{
+		"Couponcode" : "@ADF$%"
+	}
+	
+}

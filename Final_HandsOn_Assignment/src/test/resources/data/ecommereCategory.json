@@ -1,0 +1,38 @@
+{
+	"Login":
+	{
+		"Email" : "admin@gmail.com",
+		"Password" : "123456"
+	},
+	
+	"Valid":
+	{
+		"Categoryname" : "Protein powder",
+		"Uploadimage" : "C:\\Users\\MU69842\\Desktop\\Protein.jfif"
+	},
+	
+	"Numbers":
+	{
+		"Categoryname" : "098765"
+	},
+	
+	"Specialcharacters":
+	{
+		"Categoryname" : "@#$%"
+	},
+	
+	"Blank":
+	{
+		"Categoryname" : " "
+	},
+	
+	"AlphaNumbers":
+	{
+		"Categoryname" : "Product091"
+	},
+	
+	"BlankImagebox":
+	{
+		"Uploadimage" : " "
+	}
+}

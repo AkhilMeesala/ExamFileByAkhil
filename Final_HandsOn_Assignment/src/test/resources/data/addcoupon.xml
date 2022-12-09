@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="pisysindia" verbose="1">
+	<test name="AddCoupon_TestCase">
+	<parameter name="browser" value="chrome"/>
+	<parameter name = "url" value="https://xlogist.pisystindia.com/mainhub/login" />
+	<classes>
+		<class name ="TestCase.AddCoupon_TestCase"></class>
+	</classes>
+	</test>
+</suite>
